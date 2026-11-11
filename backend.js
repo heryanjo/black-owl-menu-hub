@@ -190,6 +190,8 @@ export async function handleApi(request, env, seedMenus = []) {
     if (!['GET', 'HEAD'].includes(request.method)) guardWrite(request);
     await seedDatabase(env.DB, seedMenus.filter(m => !['Wine', 'Spirits'].includes(m.category)));
     await seedDatabase(env.DB, seedMenus.filter(m => ['Wine', 'Spirits'].includes(m.category)), 'wine_spirits_import_v1');
+    await seedDatabase(env.DB, seedMenus.filter(m => !['Wine', 'Spirits'].includes(m.category)), 'menu_sync_2026_11_11_v1');
+    await seedDatabase(env.DB, seedMenus.filter(m => ['Wine', 'Spirits'].includes(m.category)), 'wine_spirits_sync_2026_11_11_v1');
     await completeSourcePhotos(env.DB);
     await completeSourceSubcategories(env.DB);
     if (url.pathname === '/api/data' && request.method === 'GET') return await getData(env.DB);
