@@ -2,6 +2,15 @@
   "source": "https://menu.blackowl.id/",
   "importedAt": "2026-10-27",
   "note": "Nama dan harga diambil dari menu sumber per outlet. Deskripsi ringkas disusun untuk katalog dan perlu dilengkapi tim. Foto menggunakan URL sumber; dapat berubah di situs asli. Ketersediaan berdasarkan halaman outlet saat impor, bukan sinkronisasi langsung.",
+  "refresh_2026_11_11": {
+    "date": "2026-11-11",
+    "note": "Sinkronisasi ulang penuh dari https://menu.blackowl.id/ untuk 6 outlet x 6 halaman kategori sumber (dining, beverages, others, wine, spirits, shisha-cigar). Menambahkan 2 kategori baru yang sebelumnya belum diimpor: 'Others' (vape/rokok elektrik, TEREA, permen, rokok, dll) dan 'Shisha & Cigar'. Total record naik dari 932 menjadi 1074. Harga/ketersediaan yang berubah dari snapshot 27 Oktober 2026 menghasilkan id baru (price point baru); record harga lama tidak dihapus agar riwayat tetap terjaga, hanya ditambahkan record aktif yang baru. Bukti sumber mentah (HTML per outlet/kategori) disimpan di data/sources/live-2026-11-11/.",
+    "recordsByCategory": {"Makanan": 223, "Minuman": 205, "Dessert": 23, "Wine": 100, "Spirits": 453, "Others": 39, "Shisha & Cigar": 31},
+    "totalRecords": 1074,
+    "unchangedIds": 674,
+    "newOrChangedIds": 400,
+    "oldIdsNoLongerActive": 258
+  },
   "outlets": [
     {
       "id": 1,
