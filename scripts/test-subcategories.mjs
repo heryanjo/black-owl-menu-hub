@@ -19,7 +19,7 @@ try{
  const renamed=seed.find(m=>m.category==='Minuman');
  await DB.prepare("UPDATE menus SET subcategory='KIDS MENU',price=123456,description='Revisi tim',image='https://example.test/foto-tim.jpg' WHERE id=?").bind(lunch.id).run();
  await DB.prepare("UPDATE menus SET name='Menu baru milik tim' WHERE id=?").bind(renamed.id).run();
- const upgrade=await worker.fetch(request('/api/data'),{DB},{});assert.equal(upgrade.status,200);let data=await upgrade.json();assert.equal(data.menus.length,1074);assert.equal(data.updates.length,0);
+ const upgrade=await worker.fetch(request('/api/data'),{DB},{});assert.equal(upgrade.status,200);let data=await upgrade.json();assert.equal(data.menus.length,1063);assert.equal(data.updates.length,0);
  const kept=data.menus.find(m=>m.id===lunch.id);assert.equal(kept.subcategory,'KIDS MENU');assert.equal(kept.price,123456);assert.equal(kept.description,'Revisi tim');assert.equal(kept.image,'https://example.test/foto-tim.jpg');assert.equal(data.menus.find(m=>m.id===renamed.id).subcategory,'');
  for(const m of seed)assert.ok(!m.subcategory||subcategoryCatalog[m.category].includes(m.subcategory));
  assert.ok(data.subcategories.Makanan.includes('LUNCH PACKAGE'));assert.ok(!data.subcategories.Makanan.includes('COFFEE'));assert.ok(!data.subcategories.Makanan.includes('PROMO 888.888'));

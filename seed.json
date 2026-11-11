@@ -213,7 +213,7 @@
     "description": "Promo 5.988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 5988888,
     "image": "/photos/97ff9e66dd9c3310777e.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       1
     ],
@@ -2181,7 +2181,7 @@
     "description": "Promo 5.888.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 5888888,
     "image": "/photos/a769710e09b93c29ef1f.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       2,
       3,
@@ -2196,7 +2196,7 @@
     "description": "Promo 6.188.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 6188888,
     "image": "/photos/a769710e09b93c29ef1f.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       5
     ],
@@ -2619,7 +2619,7 @@
     "description": "Promo 5.988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 5988888,
     "image": "/photos/a769710e09b93c29ef1f.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       1
     ],
@@ -3435,19 +3435,6 @@
     "subcategory": "PREMIUM BOTTLES"
   },
   {
-    "id": "ws-2c3e8991fdd4952a",
-    "name": "Glenlivet 12 — Bottle",
-    "category": "Spirits",
-    "description": "Single Malt · Bottle. Harga mengikuti menu sumber outlet.",
-    "price": 2500000,
-    "image": "/photos/418920757aa02639a9d5.webp",
-    "status": "Aktif",
-    "outlets": [
-      1
-    ],
-    "subcategory": "SINGLE MALT"
-  },
-  {
     "id": "ws-65400d3e088f04f7",
     "name": "Glenlivet 12 — Bottle",
     "category": "Spirits",
@@ -3483,20 +3470,6 @@
     "status": "Aktif",
     "outlets": [
       3
-    ],
-    "subcategory": "SINGLE MALT"
-  },
-  {
-    "id": "ws-705ec2f2ec5f08dd",
-    "name": "Glenlivet 15 — Bottle",
-    "category": "Spirits",
-    "description": "Single Malt · Bottle. Harga mengikuti menu sumber outlet.",
-    "price": 3300000,
-    "image": "/photos/0a89feb439a3b8044cac.webp",
-    "status": "Aktif",
-    "outlets": [
-      4,
-      5
     ],
     "subcategory": "SINGLE MALT"
   },
@@ -3989,7 +3962,7 @@
     "description": "Promo 5.988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 5988888,
     "image": "/photos/752724dc74b280712fed.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       1
     ],
@@ -4618,7 +4591,7 @@
     "description": "Promo 888.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 888888,
     "image": "/photos/b7b4d89c25cc577601ef.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       2,
       3
@@ -4632,7 +4605,7 @@
     "description": "Promo 988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 988888,
     "image": "/photos/b7b4d89c25cc577601ef.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       4
     ],
@@ -4702,7 +4675,7 @@
     "description": "Promo 988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 988888,
     "image": "/photos/8a50d2fc11633cd1bc67.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       1,
       4,
@@ -4756,7 +4729,7 @@
     "description": "Promo 888.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 888888,
     "image": "/photos/8a50d2fc11633cd1bc67.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       2,
       3
@@ -4836,7 +4809,7 @@
     "description": "Promo 988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 988888,
     "image": "/photos/b7b4d89c25cc577601ef.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       1,
       5
@@ -5367,7 +5340,7 @@
     "description": "Promo 988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 988888,
     "image": "/photos/3ea1e55199765fbcb1b7.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       1
     ],
@@ -7585,19 +7558,6 @@
     "subcategory": "SLURP & TWIRL"
   },
   {
-    "id": "ws-8382cf734ce3fcfd",
-    "name": "Singleton 12 — Bottle",
-    "category": "Spirits",
-    "description": "Single Malt · Bottle. Harga mengikuti menu sumber outlet.",
-    "price": 2500000,
-    "image": "/photos/d51bbcc8d3469eb5d84b.webp",
-    "status": "Aktif",
-    "outlets": [
-      1
-    ],
-    "subcategory": "SINGLE MALT"
-  },
-  {
     "id": "ws-4f6fd294248bad9a",
     "name": "Singleton 12 — Bottle",
     "category": "Spirits",
@@ -8443,7 +8403,7 @@
     "description": "Promo 5.888.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 5888888,
     "image": "/photos/97ff9e66dd9c3310777e.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       2,
       3,
@@ -8583,7 +8543,7 @@
     "description": "Promo 888.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 888888,
     "image": "/photos/3ea1e55199765fbcb1b7.webp",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       2,
       3,
@@ -9817,6 +9777,8 @@
       1,
       2,
       3,
+      4,
+      5,
       6
     ],
     "subcategory": "OTHERS"
@@ -9987,7 +9949,7 @@
     "description": "Promo 7.388.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 7388888,
     "image": "",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       1
     ],
@@ -10673,7 +10635,7 @@
     "description": "Promo 6.988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 6988888,
     "image": "",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       5
     ],
@@ -11672,19 +11634,6 @@
     "subcategory": "PAIR FOR YOUR DRINK"
   },
   {
-    "id": "ws-88a76c04e6f1faa1",
-    "name": "Glenfiddich 12 — Bottle",
-    "category": "Spirits",
-    "description": "Single Malt · Bottle. Harga mengikuti menu sumber outlet.",
-    "price": 2500000,
-    "image": "",
-    "status": "Aktif",
-    "outlets": [
-      1
-    ],
-    "subcategory": "SINGLE MALT"
-  },
-  {
     "id": "ws-f496d7d6d7d8a6e3",
     "name": "Glenfiddich 12 — Bottle",
     "category": "Spirits",
@@ -11694,19 +11643,6 @@
     "status": "Aktif",
     "outlets": [
       6
-    ],
-    "subcategory": "SINGLE MALT"
-  },
-  {
-    "id": "ws-d843c92c236daa1b",
-    "name": "Glenfiddich 12 — Glass",
-    "category": "Spirits",
-    "description": "Single Malt · Glass. Harga mengikuti menu sumber outlet.",
-    "price": 215000,
-    "image": "",
-    "status": "Aktif",
-    "outlets": [
-      1
     ],
     "subcategory": "SINGLE MALT"
   },
@@ -11745,6 +11681,7 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
+      1,
       4,
       5
     ],
@@ -11759,6 +11696,7 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
+      1,
       2,
       3,
       4,
@@ -11938,6 +11876,7 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
+      1,
       3,
       5
     ],
@@ -11952,7 +11891,9 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
-      1
+      1,
+      4,
+      5
     ],
     "subcategory": "SINGLE MALT"
   },
@@ -12023,19 +11964,6 @@
     "subcategory": "VODKA"
   },
   {
-    "id": "ws-cd561cea131297c2",
-    "name": "Grey Goose ❄️ — Bottle",
-    "category": "Spirits",
-    "description": "Vodka · Bottle. Harga mengikuti menu sumber outlet.",
-    "price": 1900000,
-    "image": "",
-    "status": "Aktif",
-    "outlets": [
-      4
-    ],
-    "subcategory": "VODKA"
-  },
-  {
     "id": "ws-ecb6a7779548ba62",
     "name": "Grey Goose ❄️ — Bottle",
     "category": "Spirits",
@@ -12049,22 +11977,6 @@
     "subcategory": "VODKA"
   },
   {
-    "id": "ws-f7171745845fb2d8",
-    "name": "Grey Goose ❄️ — Glass",
-    "category": "Spirits",
-    "description": "Vodka · Glass. Harga mengikuti menu sumber outlet.",
-    "price": 190000,
-    "image": "",
-    "status": "Aktif",
-    "outlets": [
-      2,
-      3,
-      4,
-      5
-    ],
-    "subcategory": "VODKA"
-  },
-  {
     "id": "ws-84bcda67e733ac49",
     "name": "Grey Goose❄️ — Bottle",
     "category": "Spirits",
@@ -12073,7 +11985,8 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
-      1
+      1,
+      4
     ],
     "subcategory": "VODKA"
   },
@@ -12100,6 +12013,10 @@
     "status": "Aktif",
     "outlets": [
       1,
+      2,
+      3,
+      4,
+      5,
       6
     ],
     "subcategory": "VODKA"
@@ -12978,19 +12895,6 @@
     "subcategory": "CANDIES"
   },
   {
-    "id": "ws-e82dc194d2bcd45b",
-    "name": "James Hennessy ❄️ — Bottle",
-    "category": "Spirits",
-    "description": "Cognac · Bottle. Harga mengikuti menu sumber outlet.",
-    "price": 3800000,
-    "image": "",
-    "status": "Aktif",
-    "outlets": [
-      1
-    ],
-    "subcategory": "COGNAC"
-  },
-  {
     "id": "ws-62a478264295bebc",
     "name": "James Hennessy ❄️ — Bottle",
     "category": "Spirits",
@@ -13012,6 +12916,7 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
+      1,
       2,
       4,
       5
@@ -13314,7 +13219,7 @@
     "description": "Promo 988.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 988888,
     "image": "",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       5
     ],
@@ -13886,7 +13791,7 @@
     "description": "Promo 888.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 888888,
     "image": "",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       2,
       3,
@@ -13985,7 +13890,7 @@
     "description": "Promo 2.288.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 2288888,
     "image": "",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       1
     ],
@@ -14013,24 +13918,11 @@
     "description": "Promo 2.388.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 2388888,
     "image": "",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       5
     ],
     "subcategory": "PROMO 2.388.888"
-  },
-  {
-    "id": "ws-a7a41e17a13f0876",
-    "name": "Monkey Shoulder ❄️ — Bottle",
-    "category": "Spirits",
-    "description": "Blended · Bottle. Harga mengikuti menu sumber outlet.",
-    "price": 1900000,
-    "image": "",
-    "status": "Aktif",
-    "outlets": [
-      1
-    ],
-    "subcategory": "BLENDED"
   },
   {
     "id": "ws-7e7f3d2bd4d7573e",
@@ -14059,19 +13951,6 @@
     "subcategory": "BLENDED"
   },
   {
-    "id": "ws-159b44b51c4b772e",
-    "name": "Monkey Shoulder ❄️ — Glass",
-    "category": "Spirits",
-    "description": "Blended · Glass. Harga mengikuti menu sumber outlet.",
-    "price": 175000,
-    "image": "",
-    "status": "Aktif",
-    "outlets": [
-      1
-    ],
-    "subcategory": "BLENDED"
-  },
-  {
     "id": "ws-10b9f72d9c6146d9",
     "name": "Monkey Shoulder❄️ — Bottle",
     "category": "Spirits",
@@ -14094,6 +13973,7 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
+      1,
       4
     ],
     "subcategory": "BLENDED"
@@ -14120,6 +14000,7 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
+      1,
       2,
       3,
       4,
@@ -14938,6 +14819,7 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
+      1,
       5
     ],
     "subcategory": "SINGLE MALT"
@@ -15075,20 +14957,6 @@
     "subcategory": "HAPPILY EVER AFTER"
   },
   {
-    "id": "bo-31b5793565b5",
-    "name": "TEREA™  Menthol Tobacco Sticks",
-    "category": "Others",
-    "description": "TEREA™ Blue TEREA™ Green TEREA™ Bright Wave TEREA™ Purple Wave TEREA™ Black Green TEREA™ Yugen",
-    "price": 50000,
-    "image": "",
-    "status": "Aktif",
-    "outlets": [
-      1,
-      6
-    ],
-    "subcategory": "TEREA"
-  },
-  {
     "id": "bo-d968414f6afe",
     "name": "TEREA™ Authentic Indonesian Clove Tobacco Sticks",
     "category": "Others",
@@ -15151,10 +15019,12 @@
     "image": "",
     "status": "Aktif",
     "outlets": [
+      1,
       2,
       3,
       4,
-      5
+      5,
+      6
     ],
     "subcategory": "TEREA"
   },
@@ -15570,7 +15440,7 @@
     "description": "Promo 5.888.888 · Paket. Harga mengikuti menu sumber outlet.",
     "price": 5888888,
     "image": "",
-    "status": "Aktif",
+    "status": "Tidak tersedia",
     "outlets": [
       2,
       3,
