@@ -1,0 +1,612 @@
+[
+  {
+    "id": "bo-d36e97f7f775",
+    "name": "Hunger Platter",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-2295420126ad",
+    "name": "Affogato",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-8a7e53773540",
+    "name": "Affogato",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-e3bae4cb2269",
+    "name": "Banana Tarte Tatin",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-dce9294cced0",
+    "name": "Batavia Highball",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-72e3c67198b9",
+    "name": "Beef Au Jus",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-654593536d12",
+    "name": "Better Than Irvin'S Fish Skin",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-fe0d2c021dc6",
+    "name": "Blackjack Cola",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-a59b7b13be9d",
+    "name": "Carafe Chilled Cranberry Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-487bc98ad635",
+    "name": "Carafe Chilled Cranberry Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-b765610d4c22",
+    "name": "Carafe Chilled Orange Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-3f49e4aa8b6f",
+    "name": "Carafe Chilled Orange Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-515fc53d0ae9",
+    "name": "Cartilage With Garlic Aioli",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-12eaaa9eff4c",
+    "name": "Cashew Nut",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-225a5bcd5eed",
+    "name": "Chicken Mala",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-5d8f360516d8",
+    "name": "Chicken Wings Series",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-55279819f3db",
+    "name": "Chiffon Egg Samyeopsal With Rice (Package)",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-d521126d7a14",
+    "name": "Chilled Cranberry Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-e844ad74129b",
+    "name": "Chilled Cranberry Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-1f82dc535475",
+    "name": "Chilled Orange Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-7599ec1f2e36",
+    "name": "Chilled Orange Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-d8d81b1f29c3",
+    "name": "Chimichurri",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-6a305aee51b5",
+    "name": "Coke Zero",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-52d05c3ed259",
+    "name": "Coke Zero",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-3db5ce56d6f2",
+    "name": "Creamy Mushroom",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-e915f3b2a574",
+    "name": "Ebi Karaage",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-64ee0a3c9279",
+    "name": "Edamamme Crunch",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-4f482c657ee1",
+    "name": "Ehire",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-abbda941a10c",
+    "name": "Espresso",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-4e4eb3b2905a",
+    "name": "Espresso",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-5356f4a1c689",
+    "name": "Flying Without Wings",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-daba05f6764d",
+    "name": "Fresh Guava Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-8c0b05ea2aff",
+    "name": "Fresh Guava Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-b56bb0bb1600",
+    "name": "Fresh Honeydew Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-c6c0e49d8daf",
+    "name": "Fresh Honeydew Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-d97130410f23",
+    "name": "Fresh Mango Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-6d26fbf425a9",
+    "name": "Fresh Mango Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-b05e66a71753",
+    "name": "Fresh Orange Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-0bd9e732ef9b",
+    "name": "Fresh Strawberry Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-5605e5850414",
+    "name": "Fresh Strawberry Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-82e7dc3c4f1d",
+    "name": "Fresh Watermelon Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-7737219bfdf0",
+    "name": "Fresh Watermelon Juice",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-14efcb7dfb21",
+    "name": "Garlic Peanut",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-6099ec7bca3b",
+    "name": "Grape / Lychee / Peach",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-cb98a40b99ad",
+    "name": "Grape / Lychee / Peach / Lemon",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-a3dd562f9ec6",
+    "name": "Green Peppercorn",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-bbb41cda6aa9",
+    "name": "Gyoza",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-ce54c4edd2d3",
+    "name": "Hot Chicken Nashvile",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-05765eecd22f",
+    "name": "Iced Tea",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-a0d689f70a77",
+    "name": "Lychee/Strawberry",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-c53782ae80ad",
+    "name": "Lychee/Strawberry",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-028d0ed32102",
+    "name": "Mala Pork Belly",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-7a8a2ceaf812",
+    "name": "Mineral Water",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-ac8c574b445b",
+    "name": "Mineral Water",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-34c068e6abf1",
+    "name": "Mushroom Fritters",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-c86257578685",
+    "name": "Nachos Platter",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-891cd2b9d18a",
+    "name": "Piccolo",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-c2c0ad6fc4c6",
+    "name": "S&P Tofu",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-eedb07144fb6",
+    "name": "Salt & Spicy Edamame",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-dc003b053bb6",
+    "name": "Sinfully Spiced Skins",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-64fce4b598df",
+    "name": "Soda Water",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-97874bfa33df",
+    "name": "Soda Water",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-3ff275f837b8",
+    "name": "Spam Chips",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-b615071f8f32",
+    "name": "Sparkling Water",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-4d263319e94e",
+    "name": "Sparkling Water",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-46759e23971f",
+    "name": "Tonic Water",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-356cad9b35cd",
+    "name": "Tonic Water",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-cbdf034b17f0",
+    "name": "Tori Kawa Shioyaki",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-cb206822a3ce",
+    "name": "Tower 3Ltr",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-fe8786ad9c76",
+    "name": "Truffle Chips & Sausages",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-98b7d5e99e8f",
+    "name": "Truffle Crispy Enoki",
+    "category": "Makanan"
+  },
+  {
+    "id": "bo-1e219bf2220d",
+    "name": "U'Re \"Justmine\"",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-1c47fc8a29cb",
+    "name": "U'Re \"Justmine\"",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-a13c77eac86d",
+    "name": "Vanilla / Hazelnut",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-e056605948ab",
+    "name": "Yakult",
+    "category": "Minuman"
+  },
+  {
+    "id": "bo-6e54f85c7a96",
+    "name": "⁠Beef Steak Genteng",
+    "category": "Makanan"
+  },
+  {
+    "id": "ws-7ae5a9867fe7a7fc",
+    "name": "Mignon Boulard Champagne Rose — Bottle",
+    "category": "Wine"
+  },
+  {
+    "id": "ws-1b2b34ffdcb636a3",
+    "name": "Louis Latour Brouly Les Saburins 2021 — Bottle",
+    "category": "Wine"
+  },
+  {
+    "id": "ws-b1dc376ac5bcc0fa",
+    "name": "M.Chapoutier Tradition Côtes-du-Rhône Adunatio Grenache, Syrah — Bottle",
+    "category": "Wine"
+  },
+  {
+    "id": "ws-12c9d6d2ea7c3248",
+    "name": "Torres Altos Ibericos Crianza — Bottle",
+    "category": "Wine"
+  },
+  {
+    "id": "ws-94ec387d84591af1",
+    "name": "Dr. Loosen Riesling Kabinett — Bottle",
+    "category": "Wine"
+  },
+  {
+    "id": "ws-c82e0fe0f201b424",
+    "name": "Chandon Rose — Bottle",
+    "category": "Wine"
+  },
+  {
+    "id": "ws-723b72d3822da564",
+    "name": "GLENFIDDICH 12 — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-c15b08af406543e8",
+    "name": "Moet Chandon Brut — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-35d835093cea4707",
+    "name": "CLASE AZUL — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-ce392d45aec7e01a",
+    "name": "GLENFIDDICH 21 — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-88a76c04e6f1faa1",
+    "name": "Glenfiddich 12 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-d843c92c236daa1b",
+    "name": "Glenfiddich 12 — Glass",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-6cf993d91480b7b7",
+    "name": "Glenfiddich 18 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-82943a5a8ce63c16",
+    "name": "Glenfiddich 21 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-014b8175df4ad5dd",
+    "name": "8 Reserve — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-13d12aba5754b4a9",
+    "name": "BATAVIA BLACK WHISKY — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-5d02de005a3cfda5",
+    "name": "Sambuca — Glass",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-c8c56c56c8b96aad",
+    "name": "WEEKDAYS — Bottle",
+    "category": "Wine"
+  },
+  {
+    "id": "ws-100c0623e0919180",
+    "name": "BATAVIA BLACK WHISKY — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-f63fcee0bdcd91be",
+    "name": "Maze Maze Vodka / Flavored vodka — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-d1c6218cff4e7cfa",
+    "name": "glenfiddich 12 — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-fbbc533077555ba0",
+    "name": "Moet Chandon Brut — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-6a32f4c209f83d80",
+    "name": "clase azul — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-79704c41fd6d7b6e",
+    "name": "Glenfiddich 12 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-b8b00e0cd282dff3",
+    "name": "Glenfiddich 18 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-d6e1394d055afc27",
+    "name": "Glenfiddich 21 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-3c647aeaeedb9c74",
+    "name": "BLUE AGAVE — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-b3e1f7bb66f96c5a",
+    "name": "Maze Maze Orange — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-b7179db9f5da3920",
+    "name": "GLENFIDDICH 12 — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-eaaae01027ad8bd9",
+    "name": "Glenfiddich 12 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-dbddfc8227371063",
+    "name": "8 Reserve — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-a9b8201353842474",
+    "name": "BLUE AGAVE — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-54be4f361d71ff18",
+    "name": "GLENFIDDICH 12 — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-ba21a09b4fc6e6d3",
+    "name": "Glenfiddich 18 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-01816db20bc5d7e1",
+    "name": "BLUE AGAVE — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-1c7976117610ee34",
+    "name": "MAZE MAZE VODKA / FLAVORED VODKA — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-f13efd6b61aaf2ef",
+    "name": "GLENFIDDICH 12 — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-3c722b635e2f8dad",
+    "name": "Moet Chandon Brut — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-1cbcee71e136520b",
+    "name": "Clase Azul — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-e544655a1d8f851b",
+    "name": "GLENFIDDICH 21 — Paket (Promo)",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-65b01441fe814958",
+    "name": "Chateau Haut Brion - Pessac Leogan — Bottle (Promo)",
+    "category": "Wine"
+  },
+  {
+    "id": "ws-f496d7d6d7d8a6e3",
+    "name": "Glenfiddich 12 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-13f4ff785d10d3e1",
+    "name": "Glenfiddich 18 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-3c9ddd0cba7cb44e",
+    "name": "Glenfiddich 21 — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-f75b57011f32a334",
+    "name": "8 Reserve — Bottle",
+    "category": "Spirits"
+  },
+  {
+    "id": "ws-ec10700b9e4727c0",
+    "name": "BATAVIA BLACK WHISKY — Bottle",
+    "category": "Spirits"
+  }
+]

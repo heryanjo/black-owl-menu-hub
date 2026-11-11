@@ -1,0 +1,21 @@
+{
+  "name": "blackowl-menu-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "db:generate": "drizzle-kit generate",
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "start": "node scripts/local-server.mjs",
+    "test": "node scripts/test-backend.mjs && node scripts/test-ui.mjs && node scripts/test-wine-spirits.mjs && node scripts/test-photos.mjs && node scripts/test-access-control.mjs && node scripts/test-subcategories.mjs && node scripts/test-sheet.mjs",
+    "import:source": "python3 scripts/import-source.py && python3 scripts/import-wine-spirits.py",
+    "preview:standalone": "node scripts/create-preview.mjs"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.44.7"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.5"
+  }
+}

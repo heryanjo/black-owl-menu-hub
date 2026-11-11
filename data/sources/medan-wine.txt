@@ -1,0 +1,371 @@
+WINE - Black Owl (https://menu.blackowl.id/menu/4/wine?area=floor&outlet=medan)
+【turn690197view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://menu.blackowl.id/menu/4/wine?outlet=medan&area=floor","lineno":null}); Total lines: 368
+L0: 【0†Image: Background Image】
+L1: 
+L2: PREMIUM CHAMPAGNE
+L3: 
+L4: ARMAND DE BRIGNAC
+L5: 
+L6: france
+L7: 
+L8: BOTTLE
+L9: 
+L10: 14.250K
+L11: 
+L12: Dom Pérignon Brut
+L13: 
+L14: france - Almond, Apple, Pineapple, Melon
+L15: 
+L16: BOTTLE
+L17: 
+L18: 10.000K
+L19: 
+L20: WINE OF THE MONTH
+L21: 
+L22: Mignon Boulard Champagne Blanc de Blancs
+L23: 
+L24: France - Citrus, Pineapple, Mango, Licorice
+L25: 
+L26: Bottle
+L27: 
+L28: 3.000K
+L29: 
+L30: Mignon Boulard Champagne Brut
+L31: 
+L32: France - Apple, Pear, Lemon, Strawberry
+L33: 
+L34: Bottle
+L35: 
+L36: 2.000K
+L37: 
+L38: Mignon Boulard Champagne Rose
+L39: 
+L40: France - Rich red berry aromas
+L41: 
+L42: Bottle
+L43: 
+L44: 2.000K
+L45: 
+L46: Marques de Murrieta Gran Reserva
+L47: Spain - sweet spices, plums, cocoa, cedar
+L48: 
+L49: Bottle
+L50: 
+L51: 2.700K
+L52: 
+L53: Castello Banfi Belnero Toscana
+L54: 
+L55: Italy - Plum Jam, Blackberry, Vanilla, Coffee
+L56: 
+L57: Bottle
+L58: 
+L59: 1.700K
+L60: 
+L61: Zonin Primitivo di Manduria
+L62: 
+L63: Italy - Plum Jam, Cherry, Vanilla, Spice
+L64: 
+L65: Bottle
+L66: 
+L67: 1.300K
+L68: 
+L69: Cloudy Bay Sauvignon Blanc
+L70: 
+L71: France - Blackberry, Raspberry, Cherry, Nutmeg
+L72: 
+L73: Bottle
+L74: 
+L75: 2.000K
+L76: 
+L77: RED WINE
+L78: 
+L79: Robert Mondavi Napa Valley Cabernet Sauvignon SOLD OUT
+L80: 
+L81: USA - blackberry, cassis, Cocoa, espresso
+L82: 
+L83: Bottle
+L84: 
+L85: 3.100K
+L86: 
+L87: Castello Banfi Brunello di Montalcino, DOCG
+L88: Italy - Cherry, plum, dried fruit, savory
+L89: 
+L90: Bottle
+L91: 
+L92: 2.800K
+L93: 
+L94: M.Chapoutier Prestige Châteauneuf-du-Pape La Bernardine Grenache
+L95: 
+L96: France - blackberry, red berry, herb
+L97: 
+L98: Bottle
+L99: 
+L100: 2.400K
+L101: 
+L102: Terrazas Malbec Reserva SOLD OUT
+L103: 
+L104: Argentina - blackberry, plum, cocoa
+L105: 
+L106: Bottle
+L107: 
+L108: 1.750K
+L109: 
+L110: Louis Latour Brouly Les Saburins 2021
+L111: 
+L112: France
+L113: 
+L114: Bottle
+L115: 
+L116: 1.500K
+L117: 
+L118: LOUIS LATOUR Valmoussine Pinot Noir
+L119: 
+L120: France - Blackberry, Raspberry, Cherry, Nutmeg
+L121: 
+L122: Bottle
+L123: 
+L124: 1.400K
+L125: 
+L126: M.Chapoutier Tradition Côtes-du-Rhône Adunatio Grenache, Syrah
+L127: France - berries, Spice, pepper
+L128: 
+L129: Bottle
+L130: 
+L131: 1.200K
+L132: 
+L133: Torres Altos Ibericos Crianza
+L134: 
+L135: Spain - cherry, raspberry, vanilla, spice
+L136: 
+L137: Bottle
+L138: 
+L139: 1.075K
+L140: 
+L141: Marius Avenue de la Gare Syrah
+L142: 
+L143: France - blackberry, plum, Pepper, spice
+L144: 
+L145: Bottle
+L146: 
+L147: 950K
+L148: 
+L149: CASTELO BANFI CHIANTI DOCG
+L150: 
+L151: Italy - cherry, raspberry, spice
+L152: 
+L153: Bottle
+L154: 
+L155: 935K
+L156: 
+L157: Robert Mondavi Woodbridge Merlot
+L158: 
+L159: USA - plum, cherry, blackberry, chocolate
+L160: 
+L161: Bottle
+L162: 
+L163: 925K
+L164: 
+L165: Luis Felipe Gran Reserva Merlot
+L166: 
+L167: Chili - plum, cherry, chocolate, vanilla
+L168: 
+L169: Bottle
+L170: 
+L171: 925K
+L172: 
+L173: Marius Syrah Grenache
+L174: France - berries, pepper, herb
+L175: 
+L176: Bottle
+L177: 
+L178: 800K
+L179: 
+L180: TORRES SANGRE DE TORO
+L181: 
+L182: Spain - Dark Cherry, strawberry, Black Pepper
+L183: 
+L184: Bottle
+L185: 
+L186: 750K
+L187: 
+L188: Glass
+L189: 
+L190: 150K
+L191: 
+L192: WHITE WINE
+L193: 
+L194: Dr. Loosen Riesling Kabinett
+L195: 
+L196: Germany - Green Apple, Lemon, Flowers, Honey
+L197: 
+L198: Bottle
+L199: 
+L200: 1.500K
+L201: 
+L202: Dr. Loosen Riesling
+L203: 
+L204: Germany - Apple, Pear, Citrus
+L205: 
+L206: Bottle
+L207: 
+L208: 935K
+L209: 
+L210: Banfi Sciandor Moscato D'asti
+L211: 
+L212: Italy, 2022 - Peach, Pear, Apple, Honey
+L213: 
+L214: Bottle
+L215: 
+L216: 850K
+L217: 
+L218: Torres Vina Sol Penedes
+L219: 
+L220: Spain - Green Apple, Citrus, Melon, Pineapple
+L221: 
+L222: Bottle
+L223: 
+L224: 750K
+L225: 
+L226: Glass
+L227: 
+L228: 150K
+L229: SPARKLING WINE & CHAMPAGNE
+L230: 
+L231: Moët & Chandon N.I.R
+L232: 
+L233: France - Raspberry, Cherry, Strawberry
+L234: 
+L235: BOTTLE
+L236: 
+L237: 3.400K
+L238: 
+L239: DOUBLE
+L240: 
+L241: 6.125K
+L242: 
+L243: TRIPLE
+L244: 
+L245: 9.100K
+L246: 
+L247: Moët & Chandon Ice ImpÉrial
+L248: 
+L249: France - Apple, peach, pear
+L250: 
+L251: BOTTLE
+L252: 
+L253: 3.200K
+L254: 
+L255: DOUBLE
+L256: 
+L257: 5.775K
+L258: 
+L259: TRIPLE
+L260: 
+L261: 8.550K
+L262: 
+L263: Moët & Chandon impÉrial Brut
+L264: 
+L265: France - Green Apple, peach, Citrus
+L266: 
+L267: REGULAR
+L268: 
+L269: 3.000K
+L270: 
+L271: DOUBLE
+L272: 
+L273: 5.400K
+L274: 
+L275: TRIPLE
+L276: 
+L277: 8.025K
+L278: 
+L279: Chandon Rose
+L280: 
+L281: AUST - strawberry, Citrus, Raspberry
+L282: 
+L283: BOTTLE
+L284: 
+L285: 1.050K
+L286: 
+L287: Chandon Brut
+L288: 
+L289: AUSTRALIA - Apple, Citrus, Pear
+L290: 
+L291: BOTTLE
+L292: 
+L293: 1.000K
+L294: Bellisimo Dolce Rosso
+L295: 
+L296: INDONESIA
+L297: 
+L298: bottle
+L299: 
+L300: 750K
+L301: 
+L302: Bellisimo Moscato
+L303: 
+L304: INDONESIA - Grape sweetness, Sweet Muscat, Citrus
+L305: 
+L306: BOTTLE
+L307: 
+L308: 750K
+L309: 
+L310: ICE WINE
+L311: 
+L312: Inniskillin Gold Vidal
+L313: 
+L314: Canada - peach, mango, orange peel, honey
+L315: 
+L316: Bottle
+L317: 
+L318: 3.100K
+L319: 
+L320: Dr. Loosen Ice Wine SOLD OUT
+L321: 
+L322: Germany - apricot, peach, tangerine, honey
+L323: 
+L324: Bottle
+L325: 
+L326: 1.900K
+L327: 
+L328: PORT STYLE
+L329: 
+L330: Graham 20 YO
+L331: 
+L332: Portugal - Orange Peels, Raisin, Almond
+L333: 
+L334: Bottle
+L335: 
+L336: 2.500K
+L337: 
+L338: Graham 10 YO
+L339: 
+L340: Portugal - Honey Dried, Hazelnuts Toast
+L341: 
+L342: Bottle
+L343: 
+L344: 1.850K
+L345: 
+L346: Graham (late bottled vintage)
+L347: Portugal - Blackberry, Blackcurrant, Cocoa, Spice
+L348: 
+L349: Bottle
+L350: 
+L351: 1.600K
+L352: 
+L353: Graham Tawny Port
+L354: 
+L355: portugal
+L356: 
+L357: Bottle
+L358: 
+L359: 1.300K
+L360: 
+L361: Cape Discovery Dolicioso
+L362: 
+L363: indonesia - cherry, caramel, dark chocolate
+L364: 
+L365: BOTTLE
+L366: 
+L367: 800K
+

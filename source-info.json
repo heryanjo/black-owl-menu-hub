@@ -1,0 +1,56 @@
+{
+  "source": "https://menu.blackowl.id/",
+  "importedAt": "2026-10-27",
+  "note": "Nama dan harga diambil dari menu sumber per outlet. Deskripsi ringkas disusun untuk katalog dan perlu dilengkapi tim. Foto menggunakan URL sumber; dapat berubah di situs asli. Ketersediaan berdasarkan halaman outlet saat impor, bukan sinkronisasi langsung.",
+  "outlets": [
+    {
+      "id": 1,
+      "name": "Pantai Indah Kapuk",
+      "code": "blackowl_pik"
+    },
+    {
+      "id": 2,
+      "name": "Kelapa Gading",
+      "code": "blackowl_kg"
+    },
+    {
+      "id": 3,
+      "name": "Gading Serpong",
+      "code": "serpong"
+    },
+    {
+      "id": 4,
+      "name": "Surabaya",
+      "code": "surabaya"
+    },
+    {
+      "id": 5,
+      "name": "Medan",
+      "code": "medan"
+    },
+    {
+      "id": 6,
+      "name": "SCBD",
+      "code": "scbd"
+    }
+  ],
+  "wineSpiritsImportedAt": "2026-10-28",
+  "wineSpiritsRecords": {
+    "Wine": 105,
+    "Spirits": 450
+  },
+  "verifiedPhotos": {
+    "date": "2026-10-28",
+    "coveredRecords": 810,
+    "totalRecords": 932,
+    "remainingRecords": 122,
+    "localAssets": 465,
+    "note": "Foto disimpan bersama website. Kredit dan jenis foto tersedia di detail menu. Foto produk referensi dapat memiliki label/vintage berbeda. Foto yang belum ditemukan tidak diganti dengan gambar menu lain."
+  },
+  "subcategories": {
+    "reviewedAt": "2026-10-28",
+    "sourcePages": 24,
+    "groupedRecords": 932,
+    "note": "Kelompok diperiksa per outlet. Entri lama yang tetap ada memakai bukti snapshot sumber sebelumnya. Pilihan dibatasi menurut kategori utama; pilihan kosong tetap diperbolehkan."
+  }
+}

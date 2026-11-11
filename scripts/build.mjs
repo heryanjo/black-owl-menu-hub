@@ -1,0 +1,35 @@
+import {readFile,writeFile,mkdir,rm,cp} from 'node:fs/promises';
+import path from 'node:path';
+import {gzipSync} from 'node:zlib';
+import {createHash} from 'node:crypto';
+const root=path.resolve(import.meta.dirname,'..');
+process.chdir(root);
+const html=await readFile('web/index.html','utf8'),css=await readFile('web/style.css','utf8'),js=(await readFile('web/app.js','utf8'))+'\n'+(await readFile('web/sheet.js','utf8'))+'\n'+(await readFile('web/access.js','utf8'));
+const auth=(await readFile('auth.js','utf8')).replaceAll('export async function ','async function ');
+const backend=(await readFile('backend.js','utf8')).replace("import {handleAuth, requireAuthMember} from './auth.js';",'').replace("import {subcategoryCatalog,subcategoryBackfill} from './taxonomy.js';",'').replace('export async function handleApi','async function handleApi');
+const taxonomy=(await readFile('taxonomy.js','utf8')).replaceAll('export const ','const ');
+const seed=JSON.parse(await readFile('seed.json','utf8'));
+const photoCredits=JSON.parse(await readFile('data/photo-credits.json','utf8'));
+const photoBackfill=JSON.parse(await readFile('data/photo-backfill.json','utf8'));
+const binaryAssets={};
+for(const asset of JSON.parse(await readFile('data/photo-assets.json','utf8')))binaryAssets[asset.path]={body:(await readFile(asset.file)).toString('base64'),type:'image/webp'};
+const assets={ '/':{type:'text/html; charset=utf-8',body:html.replace('/style.css','/style.css?v='+createHash('sha256').update(css).digest('hex').slice(0,12)).replace('/app.js','/app.js?v='+createHash('sha256').update(js).digest('hex').slice(0,12))},'/style.css':{type:'text/css; charset=utf-8',body:css},'/app.js':{type:'text/javascript; charset=utf-8',body:js} };
+const worker='const photoCredits='+JSON.stringify(photoCredits)+';\nconst photoBackfill='+JSON.stringify(photoBackfill)+';\nconst binaryAssets='+JSON.stringify(binaryAssets)+';\n'+auth+'\n'+taxonomy+'\n'+backend+'\nconst seedMenus='+JSON.stringify(seed)+';\nconst assets='+JSON.stringify(assets)+`;\nexport default {async fetch(request, env, ctx) {
+const url = new URL(request.url);
+if(url.pathname.startsWith('/api/')) return handleApi(request, env, seedMenus);
+const binary=binaryAssets[url.pathname];
+if(binary && ['GET','HEAD'].includes(request.method)){if(!await getAuthMember(request,env))return new Response('Silakan masuk.',{status:401,headers:{'cache-control':'no-store'}});return new Response(request.method==='HEAD'?null:Uint8Array.from(atob(binary.body),c=>c.charCodeAt(0)),{headers:{'content-type':binary.type,'cache-control':'private, no-store','x-content-type-options':'nosniff'}});}
+const asset=assets[url.pathname];
+if(!asset) return new Response('Halaman tidak ditemukan.', {status:404});
+if(!['GET','HEAD'].includes(request.method))return new Response('Method not allowed',{status:405});
+return new Response(request.method==='HEAD'?null:asset.body,{headers:{'content-type':asset.type,'cache-control':url.pathname==='/'?'no-cache':'public, max-age=300','x-content-type-options':'nosniff','referrer-policy':'strict-origin-when-cross-origin','x-frame-options':'SAMEORIGIN'}});
+}};`;
+await rm('dist',{recursive:true,force:true});
+await mkdir('dist/server',{recursive:true});await mkdir('dist/.openai',{recursive:true});
+const compressed=gzipSync(worker).byteLength;
+if(compressed>9.5*1024*1024)throw new Error('Worker photo bundle exceeds deployment budget: '+compressed);
+console.log('Verified photo bundle: '+Object.keys(binaryAssets).length+' assets; '+(compressed/1024/1024).toFixed(2)+' MiB compressed Worker.');
+await writeFile('dist/server/index.js',worker);
+await cp('.openai/hosting.json','dist/.openai/hosting.json');
+await cp('drizzle','dist/drizzle',{recursive:true});
+console.log('Built Worker, '+seed.length+' seed menus, and schema migrations.');

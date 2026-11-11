@@ -1,0 +1,30 @@
+[
+  {
+    "image": "https://menu.blackowl.id/src/images/menu-item/hunger-platter-sp3.jpg",
+    "error": "CalledProcessError"
+  },
+  {
+    "image": "https://vineandbine.co.uk/cdn/shop/files/12349.jpg?v=1740593597",
+    "error": "CalledProcessError"
+  },
+  {
+    "image": "https://whisky.nl/media/catalog/product/g/l/glenfiddich-18-years-small-batch-70cl.jpg?height=1400&image-type=image&store=whisky_nl&width=1400",
+    "error": "CalledProcessError"
+  },
+  {
+    "image": "https://www.freshaisle.com/cdn/shop/products/yakult-probiotic-health-drink-original-325-ml-65-x-5-energy-drinks-502.jpg?v=1739194597",
+    "error": "CalledProcessError"
+  },
+  {
+    "image": "https://www.laeuropea.com.mx/media/catalog/product/1/0/10000017436.png",
+    "error": "CalledProcessError"
+  },
+  {
+    "image": "https://www.vinorea.com/815-large_default/glenfiddich-21-anos.jpg",
+    "error": "CalledProcessError"
+  },
+  {
+    "image": "https://yumbiltong.com/cdn/shop/files/GlenfiddichMaltWhiskey12Years40_Alc700ml.png?v=1746299353",
+    "error": "CalledProcessError"
+  }
+]
