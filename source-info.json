@@ -11,6 +11,17 @@
     "newOrChangedIds": 400,
     "oldIdsNoLongerActive": 258
   },
+  "hotlinkPhotos_2026_11_13": {
+    "date": "2026-11-13",
+    "method": "Playwright (JS-rendered DOM) membaca kartu foto `.col-grid` di 36 halaman (6 outlet x 6 kategori sumber: dining, beverages, others, wine, spirits, shisha-cigar) di menu.blackowl.id, memasangkan nama produk dengan URL foto aslinya dari elemen DOM yang sama (bukan tebakan posisi).",
+    "scope": "Hanya mengisi `image` yang sebelumnya KOSONG. Tidak menyentuh 580 foto lokal (/photos/...webp) atau 8 URL eksternal yang sudah ada sebelumnya.",
+    "matching": "Dicocokkan per kategori sumber yang sama (dining hanya ke Makanan/Dessert, beverages hanya ke Minuman, wine hanya ke Wine, spirits hanya ke Spirits) berdasarkan nama dasar (sebelum ' — ' varian), dinormalisasi. Tidak ada pencocokan lintas kategori untuk menghindari salah pasang foto.",
+    "filledCount": 62,
+    "stillMissingCount": 413,
+    "stillMissingByCategory": {"Minuman": 91, "Shisha & Cigar": 31, "Spirits": 178, "Others": 38, "Makanan": 43, "Wine": 32},
+    "reasonStillMissing": "Kategori Others dan Shisha & Cigar memang tidak punya tampilan foto produk sama sekali di situs sumber (0 kartu foto ditemukan di 12 halaman tsb). Mayoritas Spirits/Wine/Minuman yang masih kosong adalah varian/promo yang di situs sumber hanya tampil sebagai teks (tidak difoto satu per satu) -- bukan karena gagal cocok nama.",
+    "note": "Foto hasil langkah ini adalah LINK LANGSUNG ke menu.blackowl.id (hotlink), BUKAN disimpan lokal di repo seperti 465 foto sebelumnya. Kalau situs sumber mengubah/menghapus foto atau strukturnya, foto ini bisa ikut berubah atau putus -- berbeda dari foto lokal yang permanen tersimpan di repo."
+  },
   "outlets": [
     {
       "id": 1,
